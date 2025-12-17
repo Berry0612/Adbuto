@@ -1,0 +1,5 @@
+F:\SoftwareCode\PCLinkNative\obj\Debug\net8.0-windows10.0.17763.0\PCLinkNative.csproj.AssemblyReference.cache
+F:\SoftwareCode\PCLinkNative\obj\Debug\net8.0-windows10.0.17763.0\PCLinkNative.GeneratedMSBuildEditorConfig.editorconfig
+F:\SoftwareCode\PCLinkNative\obj\Debug\net8.0-windows10.0.17763.0\PCLinkNative.AssemblyInfoInputs.cache
+F:\SoftwareCode\PCLinkNative\obj\Debug\net8.0-windows10.0.17763.0\PCLinkNative.AssemblyInfo.cs
+F:\SoftwareCode\PCLinkNative\obj\Debug\net8.0-windows10.0.17763.0\PCLinkNative.csproj.CoreCompileInputs.cache
